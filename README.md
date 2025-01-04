@@ -18,8 +18,8 @@ This project focuses on building a robust classification model using machine lea
 Achieved an accuracy of 98%, precision of 97%, and an F1 score of 0.98 using the KNN model.
 
 **Tools and Libraries**
-Programming Language: Python
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+*Programming Language: Python
+*Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 **Results**
 The project demonstrates the successful implementation of a classification pipeline that delivers highly accurate predictions, making it suitable for real-world applications where precision and reliability are critical.
