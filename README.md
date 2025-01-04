@@ -1,2 +1,25 @@
-# Classification-of-Breast-Tumors
-I conducted Exploratory Data Analysis (EDA) to thoroughly examine the distribution of variables and uncover significant relationships in the dataset. During the preprocessing phase, I standardized the independent variables to ensure uniformity, which is essential for improving the performance of machine learning models. Outliers were identified and removed using the z-score method to enhance the model's accuracy. Following this, I applied the K-Nearest Neighbors (KNN) algorithm to classify tumors into malignant or benign categories. The model performed exceptionally well, achieving an accuracy of 97%, a precision of 98%, and an F1 score of 0.95, demonstrating its robustness and reliability in tumor classification tasks.
+#Overview
+This project focuses on building a robust classification model using machine learning techniques. The workflow involves comprehensive data cleaning, exploratory analysis, feature engineering, and model optimization to achieve high accuracy and efficiency in predictions.
+
+#Key Features
+#Data Cleaning and Preparation:
+Performed outlier detection and treatment using the Z-score method.
+Applied feature scaling to standardize the data for optimal model performance.
+
+#Exploratory Data Analysis (EDA):
+Conducted in-depth analysis to understand data distributions and relationships between features.
+Addressed multicollinearity using Principal Component Analysis (PCA) with 10 components.
+
+#Modeling and Optimization:
+Implemented Logistic Regression, K-Nearest Neighbors (KNN), and Random Forest classifiers.
+Utilized GridSearchCV for hyperparameter tuning to enhance model efficiency.
+
+#Performance Highlights:
+Achieved an accuracy of 98%, precision of 97%, and an F1 score of 0.98 using the KNN model.
+
+#Tools and Libraries
+Programming Language: Python
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+#Results
+The project demonstrates the successful implementation of a classification pipeline that delivers highly accurate predictions, making it suitable for real-world applications where precision and reliability are critical.
